@@ -11,6 +11,7 @@
   * [基础阶段和产品思维](he-ge-de-pm/ji-chu-jie-duan-he-chan-pin-si-wei.md)
   * [待完善](he-ge-de-pm/dai-wan-shan.md)
 * [常用软件](chang-yong-ruan-jian.md)
+* [写点东西](xie-dian-dong-xi.md)
 * [获取知识](huo-qu-zhi-shi.md)
 * [安全攻防](an-quan-gong-fang.md)
 * [神马设计](shen-ma-she-ji.md)
