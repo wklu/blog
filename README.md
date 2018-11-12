@@ -1,5 +1,5 @@
 # 简介
- [搞基小站](linkais.com)
+ [搞基小站](http://www.linkais.com)
 ## Getting Super Powers2222222222222222222222222222222222222222222fdsdfsdfsdfsd
 
 Becoming a super hero is a fairly straight forward process:
