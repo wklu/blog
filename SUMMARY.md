@@ -15,7 +15,7 @@
   * [2.3 构建镜像](2.-shi-yong-docker-bu-shu-web-ying-yong/2.3-gou-jian-jing-xiang.md)
   * [2.4 运行web应用](2.-shi-yong-docker-bu-shu-web-ying-yong/2.4-yun-hang-web-ying-yong.md)
   * [2.5 分享镜像](2.-shi-yong-docker-bu-shu-web-ying-yong/2.5-fen-xiang-jing-xiang.md)
-* [3.其他文档](3.-qi-ta-wen-dang/README.md)
+* [其他文档](3.-qi-ta-wen-dang/README.md)
   * [并发编程](3.-qi-ta-wen-dang/bing-fa-bian-cheng.md)
   * [spring 源码分析](3.-qi-ta-wen-dang/spring-yuan-ma-fen-xi.md)
   * [Mybatis 源码分析](3.-qi-ta-wen-dang/mybatis-yuan-ma-fen-xi.md)
