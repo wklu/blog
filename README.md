@@ -1,20 +1,20 @@
-# Initial page
+# 简介
 
 ## Getting Super Powers2222222222222222222222222222222222222222222fdsdfsdfsdfsd
 
 Becoming a super hero is a fairly straight forward process:
 
-```
+```text
 $ give me super-powers
 ```
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+Super-powers are granted randomly so please submit an issue if you're not happy with yours.
 {% endhint %}
 
 Once you're strong enough, save the world:
 
-```
+```text
 // Ain't no code for that yet, sorry
 echo 'You got to trust me on this, I saved the world'
 ```
@@ -64,7 +64,7 @@ fsdfasdddddd
 
 {% endapi-method-response-example-description %}
 
-```
+```text
 fasdfsdfasdfasdfas
 ```
 {% endapi-method-response-example %}
@@ -74,7 +74,7 @@ fasdfsdfasdfasdfas
 
 {% endapi-method-response-example-description %}
 
-```
+```text
 
 ```
 {% endapi-method-response-example %}
@@ -84,7 +84,7 @@ fasdfsdfasdfasdfas
 
 {% endapi-method-response-example-description %}
 
-```
+```text
 
 ```
 {% endapi-method-response-example %}
@@ -94,7 +94,7 @@ fasdfsdfasdfasdfas
 
 {% endapi-method-response-example-description %}
 
-```
+```text
 
 ```
 {% endapi-method-response-example %}
@@ -104,7 +104,7 @@ fasdfsdfasdfasdfas
 
 {% endapi-method-response-example-description %}
 
-```
+```text
 
 ```
 {% endapi-method-response-example %}
@@ -114,7 +114,7 @@ fasdfsdfasdfasdfas
 
 {% endapi-method-response-example-description %}
 
-```
+```text
 
 ```
 {% endapi-method-response-example %}
@@ -140,19 +140,14 @@ $$
 
 1. fasdfasdfas
 2. fsdfasdfas
-3. fasfasssd
-   1. fsafsadfa
-   2. dsfddddddddd
-   3. fsddddddddddd
+3. fasfasssd 1. fsafsadfa 2. dsfddddddddd 3. fsddddddddddd
+4. fdsadfasdf
+   * fdsfdfsd
+     * fsdfdsfs
+       * fsdfsdfsd
+5. **fsdafasdfasdfas**
 
-* fdsadfasdf
-  * fdsfdfsd
-    * fsdfdsfs
-      * fsdfsdfsd
-* 
-## fsdafasdfasdfas
-
-#### qrewdtgerterte
+### qrewdtgerterte
 
 * [ ] ffsdfs
 
