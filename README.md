@@ -1,9 +1,6 @@
 # 简介
 
-```text
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
+> 宇宙是一个深渊，人生是一把阶梯，即使我们知道也许永远达不到意义的光明，任然要继续攀爬，否则就只能不断的徘徊，或者因为太过于执着意义而摔落。唯一重要的是攀爬，只有攀爬是真正存在的。
 
 ![](.gitbook/assets/39db49504f72368017c9df368daa8b45.jpg)
 
