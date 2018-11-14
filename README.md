@@ -4,7 +4,7 @@
 
 Email:wikinglu@gmail.com
 
-GitHub:\[wklu\]\([https://github.com/wklu](https://github.com/wklu)\)
+GitHub:[wklu](https://github.com/wklu)
 
 
 
