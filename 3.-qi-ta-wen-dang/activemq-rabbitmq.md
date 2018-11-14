@@ -1,4 +1,4 @@
-# ActiveMq、RabbitMq
+# ActiveMq
 
 
 
