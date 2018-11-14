@@ -116,3 +116,5 @@ git apply ../sync.patch # 打补丁
 git apply --check ../sync.patch #测试补丁能否成功
 ```
 
+[https://www.cnblogs.com/Gxiaopan/p/6714539.html](https://www.cnblogs.com/Gxiaopan/p/6714539.html)
+
