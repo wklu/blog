@@ -54,6 +54,7 @@
   * [docker](3.-qi-ta-wen-dang/docker.md)
   * [maven](3.-qi-ta-wen-dang/maven.md)
   * [git](3.-qi-ta-wen-dang/git/README.md)
+    * [Git常见错误](3.-qi-ta-wen-dang/git/git-chang-jian-cuo-wu.md)
     * [Git常用命令](3.-qi-ta-wen-dang/git/git-chang-yong-ming-ling.md)
   * [Sonar](3.-qi-ta-wen-dang/sonar.md)
   * [Sonar](3.-qi-ta-wen-dang/sonar-1.md)
